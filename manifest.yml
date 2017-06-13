@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 1024M
-  host: devops-tutorial
-  name: devops-tutorial
+  host: imakarov-devops
+  name: imakarov-devops
   command: node app.js
   path: .
   instances: 1
